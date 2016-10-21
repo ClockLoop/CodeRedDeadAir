@@ -8,3 +8,9 @@ Uses: DEAD AIR monitor for a radio station.
 See: http://github.com/ClockLoop/NodeRedDeadAir for schematic.
 
 http://github.com/ClockLoop/NodeRedDeadAir/blob/master/NodeRedDeadAir.png
+
+http://flows.nodered.org/flow/e057b16968fa936fd652
+
+```html
+<img src="http://github.com/ClockLoop/NodeRedDeadAir/blob/master/NodeRedDeadAir.png">
+```
