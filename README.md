@@ -11,4 +11,4 @@ http://github.com/ClockLoop/NodeRedDeadAir/blob/master/NodeRedDeadAir.png
 
 http://flows.nodered.org/flow/e057b16968fa936fd652
 
-<img src="http://github.com/ClockLoop/NodeRedDeadAir/blob/master/NodeRedDeadAir.png">
+<![alt tag](http://github.com/ClockLoop/NodeRedDeadAir/blob/master/NodeRedDeadAir.png)
